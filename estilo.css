@@ -1,0 +1,28 @@
+/*selector {
+    propiedad:valor;
+}
+*/ 
+
+/* el selector universal es el {*}
+* {
+    color: #f00;
+} cambia el color de todos los elementos
+y asi todo el documento sera pintado de rojo
+*/
+
+/*
+el selector por tipo definimos el elemento a utilizar 
+h1{
+    color: red;
+}*/
+
+/*
+ahora por clase se utiliza un punto
+los elmentos con clase igual a est
+.titulo-h1{
+    color:red;
+}
+*/
+
+/* 
+*/
